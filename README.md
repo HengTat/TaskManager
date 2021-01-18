@@ -1,6 +1,15 @@
 # TaskManager
 Task Manager Application With Data Analytics. Built using the MERN stack 
 
+To run: <br />
+<strong>ExpressJS</strong> <br />
+Create file .env in Expressjs folder and create variable DB_CONNECTION=(insert mongodb connection string)  <br />
+<strong>React FrontEnd </strong>  <br />
+Run command npm update.  <br />
+if ExpressJS is not running on localhost:3000, update variable apiserver in config.js in src folder.  <br />
+After updating Run Command npm start.  <br />
+
+
 <h3>ScreenShots</h3> <br />
 <img src="https://user-images.githubusercontent.com/60685286/104929231-93126480-59de-11eb-980e-9f011ce4823c.png" />
 <img src="https://user-images.githubusercontent.com/60685286/104929236-94dc2800-59de-11eb-8aa8-2afc139ba299.png" />
