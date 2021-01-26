@@ -1,5 +1,6 @@
 # TaskManager
 Task Manager Application With Data Analytics. Built using the MERN stack 
+Some of Javascript libraries include highcharts, axios and mdbreact.
 
 To run: <br />
 <strong>ExpressJS</strong> <br />
