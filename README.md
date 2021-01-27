@@ -3,8 +3,10 @@ Task Manager Application With Data Analytics. Built using the MERN stack
 Some of Javascript libraries include highcharts, axios and mdbreact.
 
 To run: <br />
+<br />
 <strong>ExpressJS</strong> <br />
 Create file .env in Expressjs folder and create variable DB_CONNECTION=(insert mongodb connection string)  <br />
+<br />
 <strong>React FrontEnd </strong>  <br />
 Run command npm update.  <br />
 if ExpressJS is not running on localhost:3000, update variable apiserver in config.js in src folder.  <br />
